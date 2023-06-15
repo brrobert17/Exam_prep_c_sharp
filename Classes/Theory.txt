@@ -1,0 +1,157 @@
+﻿Object-oriented programming is a programming paradigm that organizes code into objects, which are instances of classes. 
+These objects encapsulate data and behavior, allowing for modular and reusable code.
+
+In an object-oriented language, you define classes that represent the blueprint for creating objects. 
+A class defines the properties (data) and methods (behavior) that objects of that class can possess. 
+The properties are usually represented by variables, also known as attributes, 
+and the methods are procedures that can operate on the data.
+
+One of the key concepts in object-oriented programming is encapsulation, 
+which means that data and methods related to an object are bundled together and hidden from the outside world. 
+The outside world can only interact with an object through its defined methods, 
+ensuring data integrity and providing a clear interface for interaction.
+
+Another important concept is inheritance, which allows you to create new classes based on existing ones. 
+Inheritance enables the creation of hierarchical relationships between classes, 
+where derived classes inherit the properties and methods of their parent classes while adding or modifying their own.
+
+Polymorphism is another fundamental concept in object-oriented programming. 
+It allows objects of different classes to be treated as instances of a common superclass, 
+enabling code to be written in a more generic and flexible manner.
+
+Class Fields:
+
+Fields are variables declared within a class to hold data.
+They are typically private or have limited visibility to encapsulate the data 
+and prevent direct access from outside the class.
+Fields can be of various data types such as integers, strings, booleans, or custom types.
+They directly store the data associated with an object.
+Fields can be accessed and modified within the class where they are declared.
+
+Class Properties:
+
+Properties are special members that provide a flexible way to encapsulate the access to private fields.
+They define a get and/or set accessor that allows getting and setting the value of a property.
+Properties enable controlled access to the underlying data and can perform additional logic 
+when getting or setting the value.
+Properties can have different access modifiers (public, private, etc.) to control their visibility and accessibility.
+They can be used to enforce validation rules, calculate derived values, or implement computed properties.
+Properties are typically accessed from outside the class using dot notation 
+(e.g., object.PropertyName), which internally invokes the appropriate get or set accessor.
+
+Auto-implemented properties:
+
+Auto-implemented properties in C# are a shorthand syntax for defining properties 
+that automatically generate the underlying private field and the standard get and set accessors. 
+
+Access modifiers in C# are:
+
+1. public: 
+The type or member is accessible from any code.
+
+2. private: 
+The type or member is accessible only from within the same class or struct.
+
+3. protected: 
+The type or member is accessible within the same class or struct, and also in derived classes.
+
+4. internal: 
+The type or member is accessible only from within the same assembly.
+
+5. protected internal: 
+The type or member is accessible within the same assembly, as well as in derived classes.
+
+Partial classes:
+A partial class in C# allows a class definition to be split across multiple source files. 
+It enables you to define parts of a class in separate files, while the compiler combines them 
+into a single class definition at compile-time. Partial classes are primarily used 
+to separate auto-generated code from manually written code or to split large classes into more manageable parts.
+
+Reference Types:
+
+store a reference to the memory location where the actual data is stored.
+Variables of reference types hold a reference to an object on the heap.
+Examples of reference types include classes, arrays, interfaces, and strings.
+Reference type objects can be assigned null to indicate the absence of an object reference.
+When assigning a reference type variable to another variable or passing it as a parameter, 
+only the reference is copied, not the actual object.
+Reference types support inheritance, polymorphism, and garbage collection.
+Value Types:
+
+Value types:
+
+store the actual value of the data directly in the memory location where the variable is declared.
+Variables of value types hold the actual data.
+Examples of value types include primitive types (int, float, bool, etc.), structs, and enumerations.
+Value type variables cannot be assigned null as they always hold a value.
+When assigning a value type variable to another variable or passing it as a parameter, the entire value is copied.
+Value types are typically stored on the stack, which provides fast access but limited lifetime.
+Value types do not support inheritance or polymorphism.
+
+Abstraction: 
+A fundamental concept in object-oriented programming that focuses on capturing the essential characteristics 
+and behaviors of an object while hiding the unnecessary details. 
+It provides a simplified view of complex systems by emphasizing only the relevant aspects, 
+allowing users to interact with the system at a higher level of understanding.
+
+
+1. Classes:
+
+Reference types.
+Classes are used for complex data structures and behaviors.
+Classes can have fields, properties, methods, events, and indexers.
+Classes support inheritance, polymorphism and encapsulation.
+ 
+2. Structs:
+
+Structs are value types. 
+Structs are lightweight and stack-allocated, making them suitable for small, simple data structures.
+Structs do not support inheritance and cannot be derived from other structs or classes.
+Structs can have fields, properties, methods, and indexers, but they cannot have destructors or explicit parameterless constructors.
+Structs are copied by value when assigned or passed as arguments, 
+which can be useful in certain scenarios where performance or memory considerations are important.
+
+
+3. Records:
+
+
+Records are a specific type of class in C# that are designed for immutable data.
+They provide a concise syntax and built-in functionality for immutability, equality, and value-based comparisons.
+
+Static Method Dispatch: 
+
+Also known as early binding or static binding, 
+refers to the process of resolving method calls based on the declared type of the variable or reference at compile-time. 
+In statically typed languages like C#, the method to be executed is determined at compile-time 
+based on the static type of the variable. The specific implementation of the method is known and 
+fixed at compile-time, and the compiler ensures that the method call is valid.
+
+Dynamic Method Dispatch: 
+
+Also known as late binding or dynamic binding, 
+refers to the process of resolving method calls at runtime based on the actual type of the object being referenced. 
+In dynamically typed languages or when using dynamic typing features in statically typed languages, 
+the method to be executed is determined at runtime based on the dynamic type of the object.
+
+Virtual method:
+ 
+A method that can be overridden in derived classes. It allows a base class to define a method 
+with a default implementation, which can be customized or replaced in the derived classes. 
+The 'virtual' keyword is used to mark a method as virtual.
+When a method is marked as virtual in the base class, it indicates that the method is intended 
+to be overridden in derived classes to provide specialized implementations. 
+The derived classes can override the virtual method using the 'override' keyword, 
+providing their own implementation that is specific to the derived class.
+
+Method overriding:
+Allows a derived class to provide its own implementation of a method that is already defined in the base class. 
+It enables polymorphism, where objects of different derived classes can be treated as instances of the base class 
+but behave differently based on their specific implementation.
+
+To override a method in C#, the following conditions must be met:
+
+The method in the base class must be declared as virtual or abstract.
+The method in the derived class must use the override keyword.
+
+Virtual methods provide a default implementation in the base class, which can be optionally overridden in derived classes.
+Abstract methods do not provide any implementation in the base class and must be implemented in derived classes.
