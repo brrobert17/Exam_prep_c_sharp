@@ -3,6 +3,8 @@
 public class Person
 {
     private string? _name;
+    private const string gender = "male";
+    public string education;
 
     public string Name
     {
@@ -26,6 +28,6 @@ public class Person
     
     public override string ToString()
     {
-        return $"Name: {Name}, Age: {Age}";
+        return $"Name: {Name}, Age: {Age}, Gender: {gender}";
     }
 }

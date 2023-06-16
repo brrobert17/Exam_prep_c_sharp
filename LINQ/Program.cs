@@ -2,7 +2,6 @@
 using LINQ;
 
 Console.WriteLine("Hello, Language-Integrated Query!");
-
 List<Employee> employees = new List<Employee>
 {
     new Employee { Name = "John", Department = "Sales", Salary = 50000.00m },
@@ -16,13 +15,14 @@ List<Employee> employees = new List<Employee>
     new Employee { Name = "Kevin", Department = "Sales", Salary = 51000.00m },
     new Employee { Name = "Linda", Department = "Sales", Salary = 49000.00m },
     new Employee { Name = "Tim", Department = "HR", Salary = 49000.00m },
+    new Employee { Name = "Saf", Department = "Sales", Salary = 42000.00m },
     new Employee { Name = "Sam", Department = "Sales", Salary = 42000.00m },
     new Employee { Name = "Monica", Department = "Sales", Salary = 70000.00m }
 };
 
-//Linq methods
+
 List<Employee> sales = employees.Where(e => e.Department == "Sales").ToList();
-List<Employee> ascSalary = sales.OrderBy(e => e.Salary).ThenBy(e=> e.Name).ToList();
+List<Employee> ascSalary = sales.OrderBy(e => e.Salary).ThenBy(e => e.Name).ToList();
 Employee lowest = ascSalary.First();
 Employee highest = ascSalary.Last();
 
@@ -36,8 +36,11 @@ Console.WriteLine("Maximum Salary: " + highest.Salary);
 
 List<string> animals = new List<string> { "cat", "dog", "magpie", "snake" };
 
-//query expression syntax
-IEnumerable<string> longNames = from animal in animals where animal.Length >= 5 orderby animal.Length select animal;
+IEnumerable<string> longNames = 
+    from animal in animals
+    where animal.Length >= 5
+    orderby animal.Length
+    select animal;
 
 foreach (var str in longNames)
 {

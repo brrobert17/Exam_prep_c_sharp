@@ -1,0 +1,58 @@
+﻿C# is a strongly-typed language (very explicit, types must conform) 
+    using static type checking(types are checked at compile-time instead of runtime)
+The code is compiled into an intermediate language that is re-compiled at runtime.
+
+C# has no primitives, everything is typed. Certain native syntax is allowed (int, bool, string)
+    operations are method invocations as well, but the native operators work
+    
+Implicit and explicit(casting or Convert class) type conversion, 
+If a conversion is not possible between two types, a compilation error will occur. 
+To check if a conversion is possible before performing it, you can use the `is` keyword 
+or the `as` keyword along with null checking.
+
+`var` is an implicitly-typed local variable.
+    The compiler knows the type from the assignment. Doesn't work with null.
+    
+Operator overloading:
+allows you to redefine or customize the behavior of predefined operators (+, -, *, /, etc.) unary, binary and comparative
+for user-defined types. It provides the ability to define how operators should work with objects of a particular class.
+
+NULL handling:
+
+Nullable Value Types: 
+By default, value types in C# cannot be assigned a null value. However, you can make value types nullable 
+by using the Nullable<T> struct or the shorthand T? notation. This allows you to explicitly assign null to value types. 
+
+Null Conditional Operator (?.): 
+Provides a concise way to access members or invoke methods on an object without causing a null reference exception. 
+If the object on which the member or method is accessed is null, the expression returns null without throwing an exception.
+
+Null Coalescing Operator (??): 
+Used to provide a default value when an expression evaluates to null. 
+It returns the left-hand operand if it is not null, or the right-hand operand if the left-hand operand is null.
+
+
+String interpolation is generally preferred over string concatenation for several reasons:
+
+String interpolation provides a more readable and natural syntax, especially when combining 
+multiple variables and expressions within a string.
+String interpolation makes it easier to update or modify the string, as the variables and expressions 
+are directly embedded in the string, reducing the chances of errors.
+Performance: String interpolation can be more efficient than string concatenation, especially when dealing with a 
+large number of concatenated strings, as it avoids the overhead of creating intermediate string objects.
+However, there may be scenarios where string concatenation is more suitable, such as 
+when you need to manipulate or format the string contents extensively before combining them.
+
+alignment, formatting, include expressions, special characters, raw string
+
+Pattern matching:
+
+if/switch: expressions, switch can be used as statement as well 
+and evaluate relational patterns and merged patterns with `and`
+
+the `is` operator performs type checking
+Declaration pattern: assign a new variable during matching
+Type pattern: match by type
+Constant, Relational and Logical patterns
+Property pattern: to evaluate nested properties of an object
+Case guards with the keyword `when` to add more conditions 

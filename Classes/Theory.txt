@@ -76,7 +76,6 @@ Reference type objects can be assigned null to indicate the absence of an object
 When assigning a reference type variable to another variable or passing it as a parameter, 
 only the reference is copied, not the actual object.
 Reference types support inheritance, polymorphism, and garbage collection.
-Value Types:
 
 Value types:
 
@@ -114,9 +113,9 @@ which can be useful in certain scenarios where performance or memory considerati
 
 3. Records:
 
-
 Records are a specific type of class in C# that are designed for immutable data.
 They provide a concise syntax and built-in functionality for immutability, equality, and value-based comparisons.
+
 
 Static Method Dispatch: 
 

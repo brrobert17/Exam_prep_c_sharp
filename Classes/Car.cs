@@ -8,4 +8,9 @@ public class Car : Vehicle
     {
         Model = model;
     }
+
+    public override void RunEngine()
+    {
+        Console.WriteLine($"{Manufacturer} {Year} {Model} Car Engine running");
+    }
 }

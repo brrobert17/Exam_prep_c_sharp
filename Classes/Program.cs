@@ -48,13 +48,19 @@ class Program
             Name = "tim",
             Age = 20
         };
-        
+
         Person p3 = new Person("Tom", 33);
 
         Person p4 = new Person("Dan");
+        Person p5 = new Person("Soheil");
+        p5.education = "highschool";
         Console.WriteLine(p4.ToString());
+        Console.WriteLine(p5.ToString());
         
         Car car = new Car("Toyota", 2022, "Camry");
+        Vehicle vehicle = new Vehicle("BMW", 1999);
+        vehicle.RunEngine();
+        car.RunEngine();
         Console.WriteLine($"Manufacturer: {car.Manufacturer}, Year: {car.Year}, Model: {car.Model}");
     }
 }

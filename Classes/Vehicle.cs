@@ -10,4 +10,9 @@ public class Vehicle
         Manufacturer = manufacturer;
         Year = year;
     }
+
+    public virtual void RunEngine()
+    {
+        Console.WriteLine($"{Manufacturer} {Year} Engine running");
+    }
 }
