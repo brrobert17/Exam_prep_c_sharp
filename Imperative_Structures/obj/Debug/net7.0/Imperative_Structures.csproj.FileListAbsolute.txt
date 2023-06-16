@@ -1,0 +1,15 @@
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Imperative_Structures\bin\Debug\net7.0\Imperative_Structures.exe
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Imperative_Structures\bin\Debug\net7.0\Imperative_Structures.deps.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Imperative_Structures\bin\Debug\net7.0\Imperative_Structures.runtimeconfig.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Imperative_Structures\bin\Debug\net7.0\Imperative_Structures.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Imperative_Structures\bin\Debug\net7.0\Imperative_Structures.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Imperative_Structures\obj\Debug\net7.0\Imperative_Structures.csproj.AssemblyReference.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Imperative_Structures\obj\Debug\net7.0\Imperative_Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Imperative_Structures\obj\Debug\net7.0\Imperative_Structures.AssemblyInfoInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Imperative_Structures\obj\Debug\net7.0\Imperative_Structures.AssemblyInfo.cs
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Imperative_Structures\obj\Debug\net7.0\Imperative_Structures.csproj.CoreCompileInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Imperative_Structures\obj\Debug\net7.0\Imperative_Structures.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Imperative_Structures\obj\Debug\net7.0\refint\Imperative_Structures.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Imperative_Structures\obj\Debug\net7.0\Imperative_Structures.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Imperative_Structures\obj\Debug\net7.0\Imperative_Structures.genruntimeconfig.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Imperative_Structures\obj\Debug\net7.0\ref\Imperative_Structures.dll
