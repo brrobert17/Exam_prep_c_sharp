@@ -1,0 +1,15 @@
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\GenericRing\bin\Debug\net7.0\GenericRing.exe
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\GenericRing\bin\Debug\net7.0\GenericRing.deps.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\GenericRing\bin\Debug\net7.0\GenericRing.runtimeconfig.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\GenericRing\bin\Debug\net7.0\GenericRing.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\GenericRing\bin\Debug\net7.0\GenericRing.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\GenericRing\obj\Debug\net7.0\GenericRing.csproj.AssemblyReference.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\GenericRing\obj\Debug\net7.0\GenericRing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\GenericRing\obj\Debug\net7.0\GenericRing.AssemblyInfoInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\GenericRing\obj\Debug\net7.0\GenericRing.AssemblyInfo.cs
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\GenericRing\obj\Debug\net7.0\GenericRing.csproj.CoreCompileInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\GenericRing\obj\Debug\net7.0\GenericRing.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\GenericRing\obj\Debug\net7.0\refint\GenericRing.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\GenericRing\obj\Debug\net7.0\GenericRing.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\GenericRing\obj\Debug\net7.0\GenericRing.genruntimeconfig.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\GenericRing\obj\Debug\net7.0\ref\GenericRing.dll

@@ -19,3 +19,13 @@ Console.WriteLine("objPrint: "+ u3);
 
 var ur1 = new UserRecord("admin", "admin");
 Console.WriteLine(ur1);
+
+var us1 = new User
+{
+    Username = "tim",
+    Password = "000"
+};
+var us2 = us1;
+us1.Username = "TIM2";
+Console.WriteLine(us1.Username);
+Console.WriteLine(us2.Username);

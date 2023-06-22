@@ -1,0 +1,15 @@
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TuplesAttributes\bin\Debug\net7.0\TuplesAttributes.exe
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TuplesAttributes\bin\Debug\net7.0\TuplesAttributes.deps.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TuplesAttributes\bin\Debug\net7.0\TuplesAttributes.runtimeconfig.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TuplesAttributes\bin\Debug\net7.0\TuplesAttributes.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TuplesAttributes\bin\Debug\net7.0\TuplesAttributes.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TuplesAttributes\obj\Debug\net7.0\TuplesAttributes.csproj.AssemblyReference.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TuplesAttributes\obj\Debug\net7.0\TuplesAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TuplesAttributes\obj\Debug\net7.0\TuplesAttributes.AssemblyInfoInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TuplesAttributes\obj\Debug\net7.0\TuplesAttributes.AssemblyInfo.cs
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TuplesAttributes\obj\Debug\net7.0\TuplesAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TuplesAttributes\obj\Debug\net7.0\TuplesAttributes.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TuplesAttributes\obj\Debug\net7.0\refint\TuplesAttributes.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TuplesAttributes\obj\Debug\net7.0\TuplesAttributes.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TuplesAttributes\obj\Debug\net7.0\TuplesAttributes.genruntimeconfig.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TuplesAttributes\obj\Debug\net7.0\ref\TuplesAttributes.dll

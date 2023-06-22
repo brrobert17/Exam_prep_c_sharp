@@ -30,8 +30,8 @@ const decimal salary = 5000.50m;
 var message = $"{"Name",-10} {name}\n{"Age",-10} {age:x8}\n{"Salary",-10} {salary:F1}";
 Console.WriteLine(message);
 
-var m2 = "\\localhost:8080";
-var m3 = @"\\localhost:8080";
+var m2 = "\\localhost\n:8080";
+var m3 = @"\\localhost\n:8080";
 Console.WriteLine(m2);
 Console.WriteLine(m3);
 
@@ -51,7 +51,7 @@ Console.WriteLine(s);
 
 switch (myNum)
 {
-    case <3: Console.WriteLine("very little");
+    case 3: Console.WriteLine("very little");
         break;
     case >3 and <10: Console.WriteLine("very nice");
         break;
@@ -74,3 +74,19 @@ Console.WriteLine(m9.GetType());
 
 string s1 = "hello";
 var s2 = "hello";
+var p10 = new Person("soheil");
+if (p10 is { Name: "soheil" })
+{
+    Console.WriteLine("yesItIs a person Stat");
+}
+
+static void MMM(object o)
+{
+    if (o is Person{ Name: "soheil" })
+    {
+        Console.WriteLine("yesItIs a person Method");
+    }
+}
+
+MMM(p10);
+

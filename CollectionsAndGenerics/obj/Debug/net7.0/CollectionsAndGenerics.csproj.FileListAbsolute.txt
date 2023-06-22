@@ -1,0 +1,15 @@
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\CollectionsAndGenerics\bin\Debug\net7.0\CollectionsAndGenerics.exe
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\CollectionsAndGenerics\bin\Debug\net7.0\CollectionsAndGenerics.deps.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\CollectionsAndGenerics\bin\Debug\net7.0\CollectionsAndGenerics.runtimeconfig.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\CollectionsAndGenerics\bin\Debug\net7.0\CollectionsAndGenerics.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\CollectionsAndGenerics\bin\Debug\net7.0\CollectionsAndGenerics.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\CollectionsAndGenerics\obj\Debug\net7.0\CollectionsAndGenerics.csproj.AssemblyReference.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\CollectionsAndGenerics\obj\Debug\net7.0\CollectionsAndGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\CollectionsAndGenerics\obj\Debug\net7.0\CollectionsAndGenerics.AssemblyInfoInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\CollectionsAndGenerics\obj\Debug\net7.0\CollectionsAndGenerics.AssemblyInfo.cs
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\CollectionsAndGenerics\obj\Debug\net7.0\CollectionsAndGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\CollectionsAndGenerics\obj\Debug\net7.0\CollectionsAndGenerics.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\CollectionsAndGenerics\obj\Debug\net7.0\refint\CollectionsAndGenerics.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\CollectionsAndGenerics\obj\Debug\net7.0\CollectionsAndGenerics.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\CollectionsAndGenerics\obj\Debug\net7.0\CollectionsAndGenerics.genruntimeconfig.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\CollectionsAndGenerics\obj\Debug\net7.0\ref\CollectionsAndGenerics.dll
