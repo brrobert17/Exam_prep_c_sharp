@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdas", "Lambdas\Lambdas.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuplesAttributes", "TuplesAttributes\TuplesAttributes.csproj", "{70F488C9-6499-4D82-94FF-7BE371F03187}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\Attributes.csproj", "{9353A399-EE5C-4542-A910-CB7660773DE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{70F488C9-6499-4D82-94FF-7BE371F03187}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70F488C9-6499-4D82-94FF-7BE371F03187}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70F488C9-6499-4D82-94FF-7BE371F03187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9353A399-EE5C-4542-A910-CB7660773DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9353A399-EE5C-4542-A910-CB7660773DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9353A399-EE5C-4542-A910-CB7660773DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9353A399-EE5C-4542-A910-CB7660773DE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

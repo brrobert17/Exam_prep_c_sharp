@@ -4,14 +4,6 @@ namespace GenericRing;
 
 public class Human : Character
 {
-    [Range(0,100)]
-    private int _bullets;
-
-    public int Bullets
-    {
-        get => _bullets;
-        set => _bullets = value;
-    }
 
     public Human(int level, string name)
     {

@@ -13,15 +13,6 @@ Fellowship<Character> CreateFellowship()
 var fellowship = CreateFellowship();
 var dummy = new Character() { Name = "DUMMY", Level = 0, Race = "INANIMATE" };
 
-var v1 = new Human(4,"bob")
-{
-    Bullets = 200
-};
-Console.WriteLine(Validator.TryValidateObject(v1, 
-    new ValidationContext(v1), 
-    new List<ValidationResult>()));
-
-
 
 if (fellowship.Members != null)
     foreach (var c in fellowship.Members)

@@ -1,0 +1,15 @@
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Attributes\bin\Debug\net7.0\Attributes.exe
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Attributes\bin\Debug\net7.0\Attributes.deps.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Attributes\bin\Debug\net7.0\Attributes.runtimeconfig.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Attributes\bin\Debug\net7.0\Attributes.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Attributes\bin\Debug\net7.0\Attributes.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Attributes\obj\Debug\net7.0\Attributes.csproj.AssemblyReference.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Attributes\obj\Debug\net7.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Attributes\obj\Debug\net7.0\Attributes.AssemblyInfoInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Attributes\obj\Debug\net7.0\Attributes.AssemblyInfo.cs
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Attributes\obj\Debug\net7.0\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Attributes\obj\Debug\net7.0\Attributes.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Attributes\obj\Debug\net7.0\refint\Attributes.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Attributes\obj\Debug\net7.0\Attributes.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Attributes\obj\Debug\net7.0\Attributes.genruntimeconfig.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\Attributes\obj\Debug\net7.0\ref\Attributes.dll
