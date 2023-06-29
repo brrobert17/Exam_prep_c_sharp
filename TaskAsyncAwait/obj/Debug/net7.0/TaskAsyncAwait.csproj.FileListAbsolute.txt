@@ -1,0 +1,15 @@
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskAsyncAwait\bin\Debug\net7.0\TaskAsyncAwait.exe
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskAsyncAwait\bin\Debug\net7.0\TaskAsyncAwait.deps.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskAsyncAwait\bin\Debug\net7.0\TaskAsyncAwait.runtimeconfig.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskAsyncAwait\bin\Debug\net7.0\TaskAsyncAwait.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskAsyncAwait\bin\Debug\net7.0\TaskAsyncAwait.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.csproj.AssemblyReference.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.AssemblyInfo.cs
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskAsyncAwait\obj\Debug\net7.0\refint\TaskAsyncAwait.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskAsyncAwait\obj\Debug\net7.0\TaskAsyncAwait.genruntimeconfig.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskAsyncAwait\obj\Debug\net7.0\ref\TaskAsyncAwait.dll

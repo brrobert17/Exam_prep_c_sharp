@@ -1,0 +1,15 @@
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\MyBuilder\bin\Debug\net7.0\MyBuilder.exe
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\MyBuilder\bin\Debug\net7.0\MyBuilder.deps.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\MyBuilder\bin\Debug\net7.0\MyBuilder.runtimeconfig.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\MyBuilder\bin\Debug\net7.0\MyBuilder.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\MyBuilder\bin\Debug\net7.0\MyBuilder.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\MyBuilder\obj\Debug\net7.0\MyBuilder.csproj.AssemblyReference.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\MyBuilder\obj\Debug\net7.0\MyBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\MyBuilder\obj\Debug\net7.0\MyBuilder.AssemblyInfoInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\MyBuilder\obj\Debug\net7.0\MyBuilder.AssemblyInfo.cs
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\MyBuilder\obj\Debug\net7.0\MyBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\MyBuilder\obj\Debug\net7.0\MyBuilder.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\MyBuilder\obj\Debug\net7.0\refint\MyBuilder.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\MyBuilder\obj\Debug\net7.0\MyBuilder.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\MyBuilder\obj\Debug\net7.0\MyBuilder.genruntimeconfig.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\MyBuilder\obj\Debug\net7.0\ref\MyBuilder.dll

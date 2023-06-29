@@ -1,6 +1,6 @@
 ﻿namespace test1;
 
-public struct User
+public struct UserStruct
 {
     private string username;
 
@@ -12,12 +12,12 @@ public struct User
     
     public string Password { get; set; }
 
-    public User(string username, string password)
+    public UserStruct(string username, string password)
     {
         this.username = username;
         Password = password;
     }
     
-    public User(){}
+    public UserStruct(){}
 
 }

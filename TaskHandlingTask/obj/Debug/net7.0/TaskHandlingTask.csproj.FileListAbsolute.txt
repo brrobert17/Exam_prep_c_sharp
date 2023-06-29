@@ -1,0 +1,15 @@
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskHandlingTask\bin\Debug\net7.0\TaskHandlingTask.exe
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskHandlingTask\bin\Debug\net7.0\TaskHandlingTask.deps.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskHandlingTask\bin\Debug\net7.0\TaskHandlingTask.runtimeconfig.json
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskHandlingTask\bin\Debug\net7.0\TaskHandlingTask.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskHandlingTask\bin\Debug\net7.0\TaskHandlingTask.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskHandlingTask\obj\Debug\net7.0\TaskHandlingTask.csproj.AssemblyReference.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskHandlingTask\obj\Debug\net7.0\TaskHandlingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskHandlingTask\obj\Debug\net7.0\TaskHandlingTask.AssemblyInfoInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskHandlingTask\obj\Debug\net7.0\TaskHandlingTask.AssemblyInfo.cs
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskHandlingTask\obj\Debug\net7.0\TaskHandlingTask.csproj.CoreCompileInputs.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskHandlingTask\obj\Debug\net7.0\TaskHandlingTask.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskHandlingTask\obj\Debug\net7.0\refint\TaskHandlingTask.dll
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskHandlingTask\obj\Debug\net7.0\TaskHandlingTask.pdb
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskHandlingTask\obj\Debug\net7.0\TaskHandlingTask.genruntimeconfig.cache
+C:\Users\Robbo\RiderProjects\Exam_prep_c_sharp\TaskHandlingTask\obj\Debug\net7.0\ref\TaskHandlingTask.dll

@@ -15,4 +15,9 @@ public class Vehicle
     {
         Console.WriteLine($"{Manufacturer} {Year} Engine running");
     }
+
+    public void StopEngine()
+    {
+        Console.WriteLine("stopped vehicle.");
+    }
 }

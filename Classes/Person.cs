@@ -23,6 +23,11 @@ public class Person
     public Person(string name) : this(name, 0)
     {
     }
+
+    public Person(string name, int age, string education) : this(name, age)
+    {
+        this.education = education;
+    }
     
     public Person(){}
     

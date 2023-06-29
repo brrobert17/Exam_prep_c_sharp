@@ -13,6 +13,7 @@ Console.WriteLine(myNums.Average());
 
 Console.WriteLine("Sorted:");
 Array.Sort(myNums2);
+Array.Sort(myWords2, (x,y)=> x.Length.CompareTo(y.Length));
 foreach (var n in myNums2)
 {
     Console.WriteLine(n);

@@ -20,8 +20,9 @@ List<Employee> employees = new List<Employee>
     new Employee { Name = "Monica", Department = "Sales", Salary = 70000.00m }
 };
 
-
 List<Employee> sales = employees.Where(e => e.Department == "Sales").ToList();
+List<string?> salesNames = 
+    employees.Where(e => e.Department == "Sales").Select(e=> e.Name).ToList();
 List<Employee> ascSalary = sales.OrderBy(e => e.Salary).ThenBy(e => e.Name).ToList();
 Employee lowest = ascSalary.First();
 Employee highest = ascSalary.Last();
@@ -78,6 +79,7 @@ foreach (Book b in myBooks)
 {
     Console.WriteLine(b.Title);
 }
+
 
 
 internal class Employee

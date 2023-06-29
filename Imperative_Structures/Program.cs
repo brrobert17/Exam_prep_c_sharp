@@ -27,7 +27,7 @@ const string name = "John";
 const int age = 30;
 const decimal salary = 5000.50m;
 
-var message = $"{"Name",-10} {name}\n{"Age",-10} {age:x8}\n{"Salary",-10} {salary:F1}";
+var message = $"{"Name",-10} {name}\n{"Age",-10} {age:P}\n{"Salary",-10} {salary:F1}";
 Console.WriteLine(message);
 
 var m2 = "\\localhost\n:8080";
@@ -36,7 +36,9 @@ Console.WriteLine(m2);
 Console.WriteLine(m3);
 
 var html = """
-    <script>alert("hello world")</script>
+    <script>
+        alert("hello world");
+    </script>
     """;
 Console.WriteLine(html);
 
@@ -80,13 +82,18 @@ if (p10 is { Name: "soheil" })
     Console.WriteLine("yesItIs a person Stat");
 }
 
-static void MMM(object o)
+static void MyRamndomMethod(object o)
 {
-    if (o is Person{ Name: "soheil" })
+    if (o is Person{ Name: "soheil" } myPerson)
     {
-        Console.WriteLine("yesItIs a person Method");
+        Console.WriteLine($"yesItIs a person Method {myPerson}");
+    }
+
+    if (o is not Person)
+    {
+        
     }
 }
 
-MMM(p10);
+MyRamndomMethod(p10);
 

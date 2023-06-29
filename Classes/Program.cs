@@ -54,6 +54,7 @@ class Program
         Person p4 = new Person("Dan");
         Person p5 = new Person("Soheil");
         p5.education = "highschool";
+        var p6 = new Person("bob", 20, "uni");
         Console.WriteLine(p4.ToString());
         Console.WriteLine(p5.ToString());
         

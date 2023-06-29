@@ -18,6 +18,11 @@ Console.WriteLine($"My Tuple: {t1.Item1} and {t1.Item2} and {t1.Item3}");
 //named tuple properties
 (int a, string b) ReturnTuple2() { return (a:10, b:"hello"); }
 
+Tuple<int, string> ReturnTuple3()
+{
+    return Tuple.Create(2, "hello");
+}
+
 int number = 10;
 Console.WriteLine($"original: {number}");
 // 10
